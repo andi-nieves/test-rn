@@ -1,4 +1,4 @@
-# viseo-code-test-rn
+# test-rn
 
 ### Running the app
 yarn or yarn install or yarn i
